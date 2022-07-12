@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-	    int sum, i, r;
+	int sum, i, r;
 
 		char decode[27] = "abcdefghijklmnopqrstuvwxyz";
 		char key[30];
